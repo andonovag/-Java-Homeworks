@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.company","l":"AbstractUser"},{"p":"com.company","l":"AdminUserImpl"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.company","l":"DateBase"},{"p":"com.company","l":"Demo"},{"p":"com.company","l":"IAdminUser"},{"p":"com.company","l":"IUser"},{"p":"com.company","l":"Main"},{"p":"com.company","l":"UserImpl"}]
